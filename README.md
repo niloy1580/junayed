@@ -1,0 +1,2 @@
+# junayed
+Termux setup
